@@ -1,0 +1,25 @@
+* Requiriments
+
+Software:
+
+- python >=3.6 >3.8 
+
+Bibliotecas:
+
+- pandas
+
+- numpy
+
+- datetime
+
+- matplotlib.pyplot
+
+- plotly.express
+
+- plotly.graph_objects
+
+- statsmodels
+
+- pmdarima
+
+- fbprophet
